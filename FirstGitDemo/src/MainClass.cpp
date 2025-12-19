@@ -4,7 +4,11 @@
  *  Created on: 19.12.2025
  *      Author: HP
  *      Das ist mein erstes git Projekt
+<<<<<<< HEAD
  *      Kommentar mal anders
+=======
+ Eine erweiterung
+>>>>>>> refs/remotes/origin/master
  */
 
 #include <iostream>
